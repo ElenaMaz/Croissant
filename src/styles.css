@@ -1,3 +1,31 @@
 .container {
   width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.row {
+  margin: 20px 0px;
+}
+
+.link-to-page a {
+  text-decoration: none;
+  padding: 20px;
+  border: 1px solid #0d6efd;
+  background-color: #0d6efd;
+  color: white;
+}
+
+.link-to-page a:hover {
+  color: #0d6efd;
+  background-color: white;
+}
+
+.link-to-page {
+  margin-top: 40px;
 }
