@@ -1,12 +1,12 @@
-.container {
-  width: 800px;
-  display: block;
-  margin: 0 auto;
-}
-
 img {
   max-width: 100%;
   height: auto;
+}
+
+.container {
+  width: 800px;
+  display: block;
+  margin: 80px auto;
 }
 
 .row {
@@ -28,4 +28,10 @@ img {
 
 .link-to-page {
   margin-top: 40px;
+}
+
+.navbar {
+  top: 0;
+  width: 100%;
+  position: fixed;
 }
