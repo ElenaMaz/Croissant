@@ -3,6 +3,10 @@ img {
   height: auto;
 }
 
+p {
+  margin: 20px;
+}
+
 .container {
   width: 800px;
   display: block;
